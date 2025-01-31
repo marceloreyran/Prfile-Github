@@ -115,7 +115,7 @@ h1:hover {
 .repo {
     text-decoration: none;
     color: #fff;
-    background-color: #ff1500;
+    background-color: hsl(5, 100%, 50%);
     font-size: 0.9rem;
     padding: 0.4rem 0.8rem;
     margin-right: 0.5rem;
