@@ -129,12 +129,12 @@ h1:hover {
     background-color: #cc0c00;
     transform: scale(1.05);
 }
-@media (max-width: 500px) {
+@media (max-width: 600px) {
     .card {
         flex-direction: column;
         align-items: center;
     }
     .inputForm {
-        max-width: 400px;
+        max-width: 500px;
     }
 }
